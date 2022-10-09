@@ -30,3 +30,5 @@ div-body content div-header innerHtml h3 + an icon pluse minus > p as ans
 4. nextElementSibling.
 5. appendChild
 6. How to add The content form the javaScript obj to html.
+7. ### Demo
+[![](https://img.shields.io/badge/Demo-visit-green)](https://accordion-js-app-1.netlify.app/)
